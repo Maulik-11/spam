@@ -1,0 +1,6 @@
+{
+  "apiKey": "your_api_key_here",
+  "serviceUrl": "https://api.example.com/verify",
+  "timeout": 5000,
+  "logLevel": "info"
+}
